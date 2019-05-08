@@ -1,0 +1,37 @@
+﻿生成启动时间为 2019/5/7 2:10:18。
+     1>项目“c:\Users\Li Jiang\documents\visual studio 2013\Projects\ATM\ATM\ATM.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ATM.c main.c
+         main.c
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\main.c(19): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\vs2013\vc\include\conio.h(131) : 参见“getch”的声明
+         ATM.c
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(21): warning C4013: “strcmp”未定义；假设外部返回 int
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(29): warning C4013: “time”未定义；假设外部返回 int
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(34): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(82): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(104): error C2054: 在“③④⑤⑥⑦”之后应输入“(”
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(104): error C2082: 形参“Menu”的重定义
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(104): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(107): warning C4566: 由通用字符名称“\u2460”表示的字符不能在当前代码页(1252)中表示出来
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(107): warning C4566: 由通用字符名称“\u2461”表示的字符不能在当前代码页(1252)中表示出来
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(108): warning C4566: 由通用字符名称“\u2462”表示的字符不能在当前代码页(1252)中表示出来
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(108): warning C4566: 由通用字符名称“\u2463”表示的字符不能在当前代码页(1252)中表示出来
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(109): warning C4566: 由通用字符名称“\u2464”表示的字符不能在当前代码页(1252)中表示出来
+     1>c:\users\li jiang\documents\visual studio 2013\projects\atm\atm\atm.c(109): warning C4566: 由通用字符名称“\u2465”表示的字符不能在当前代码页(1252)中表示出来
+         正在生成代码...
+     1>已完成生成项目“c:\Users\Li Jiang\documents\visual studio 2013\Projects\ATM\ATM\ATM.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.81
